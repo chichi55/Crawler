@@ -1,1 +1,1 @@
-{"code":1,"msg":"OK","data":{"order_type":"PhotoOrder","order_uuid":"5039728a-9854-4ef5-897e-5bdd3a889187","order_title":"购买照片","amount":29.99,"points":0,"pay_status":"pay_success"}}
+{"code":2,"msg":"OK","data":{"order_type":"PhotoOrder","order_uuid":"5039728a-9854-4ef5-897e-5bdd3a889187","order_title":"购买照片","amount":29.99,"points":0,"pay_status":"pay_success"}}
